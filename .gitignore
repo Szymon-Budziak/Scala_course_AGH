@@ -58,3 +58,8 @@ project/**/metals.sbt
 .bsp
 .scalafmt.conf
 Lab_1/scala-lab1.pdf
+Lab_2/scala-lab2.pdf
+Lab_3/scala-lab3.pdf
+Lab_4/scala-lab4.pdf
+Lab_5/scala-lab5.pdf
+Lab_6/scala-lab6.pdf
